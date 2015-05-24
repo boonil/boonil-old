@@ -1,0 +1,11 @@
+body {
+      background-image: url('http://subtlepatterns.com/patterns/concrete_seamless.png');
+      font-size: 18px;
+    }
+h1 a, h1 a:hover {
+      color: black !important;
+      text-decoration: none;
+    }
+#sidebar h2 {
+      font-size: 1.2em;
+    }
